@@ -1,11 +1,3 @@
-" Nick's vimrc file
-" ~~ If it's stupid and it works ~~
-" ~~       it's not stupid       ~~
-
-
-" :options
-" :browse options
-" :brose set
 " Plugins
 " directory :--------------: NERDTree
 " fuzzy search :-----------: CtrlP [Fork]
@@ -45,7 +37,6 @@ set softtabstop=2
 set shiftwidth=2
 set smarttab
 set autoread
-" max out that history bih
 " :so ~/.vimrc
 set history=1000
 
